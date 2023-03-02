@@ -1,0 +1,4 @@
+﻿  array_stack.c
+F:\VS_project\数据结构和算法分析\arraystack_secondtime\arraystack_secondtime\array_stack.c(93,11): warning C4098: “top_and_pop”:“void”函数返回值
+F:\VS_project\数据结构和算法分析\arraystack_secondtime\arraystack_secondtime\array_stack.c(95,29): warning C4098: “top_and_pop”:“void”函数返回值
+  arraystack_secondtime.vcxproj -> F:\VS_project\数据结构和算法分析\arraystack_secondtime\x64\Debug\arraystack_secondtime.exe
