@@ -1,0 +1,5 @@
+﻿  main.c
+F:\VS_project\数据结构和算法分析\queue_third\queue_third\main.c(6,6): warning C4101: “val”: 未引用的局部变量
+  queue.c
+  正在生成代码...
+  queue_third.vcxproj -> F:\VS_project\数据结构和算法分析\queue_third\x64\Debug\queue_third.exe
