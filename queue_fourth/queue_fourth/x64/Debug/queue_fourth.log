@@ -1,0 +1,4 @@
+﻿  queue.c
+F:\VS_project\数据结构和算法分析\queue_fourth\queue_fourth\queue.c(47,3): warning C4033: “dequeue”必须返回值
+F:\VS_project\数据结构和算法分析\queue_fourth\queue_fourth\queue.c(53): warning C4715: “dequeue”: 不是所有的控件路径都返回值
+  queue_fourth.vcxproj -> F:\VS_project\数据结构和算法分析\queue_fourth\x64\Debug\queue_fourth.exe
