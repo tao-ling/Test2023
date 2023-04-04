@@ -1,0 +1,5 @@
+﻿  AVLtree.c
+  main.c
+  正在生成代码...
+F:\VS_project\数据结构和算法分析\AVLtree_fifth\AVLtree_fifth\AVLtree.c(79): warning C4716: “rr_rotate”: 必须返回一个值
+  AVLtree_fifth.vcxproj -> F:\VS_project\数据结构和算法分析\AVLtree_fifth\x64\Debug\AVLtree_fifth.exe
